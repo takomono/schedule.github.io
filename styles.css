@@ -1,0 +1,52 @@
+li {
+  list-style: none;
+}
+
+.top-title {
+  text-align: center;
+}
+
+.top-title h1 {
+  border-bottom: solid;
+  width: 257px;
+  margin: auto;
+}
+
+.top-title h2 {
+  border-bottom: solid;
+  width: 220px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.main {
+  text-align: center;
+}
+
+.Morning > h1 {
+  color: gray;
+}
+.Morning li {
+  margin-right: 40px;
+}
+
+.Lunch > h1 {
+  color: goldenrod;
+}
+.Lunch li {
+  margin-right: 40px;
+}
+
+.Night > h1 {
+  color: darkslateblue;
+}
+.Night li {
+  margin-right: 40px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  border-top: solid;
+  border-width: 1px;
+}
